@@ -157,6 +157,7 @@ SIMPLE_JWT = {
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:5173",
     "http://127.0.0.1:5173",
+    "https://kunapet-c23d3.web.app",
 ]
 # Para que las urls no requieran el slash final
 APPEND_SLASH = False
